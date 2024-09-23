@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Bitmap Management project aims to implement a bitmap data structure in C that allows for efficient storage and manipulation of values ranging from `0` to `2^32 - 1`. This project involves creating a dynamic array to represent the bitmap and includes functionalities for adding, deleting, and manipulating values.
+The Bitmap Management project aims to implement a bitmap data structure in C that allows for efficient storage and manipulation of values ranging from `0` to `2^16 - 1`. This project involves creating a dynamic array to represent the bitmap and includes functionalities for adding, deleting, and manipulating values.
 
 ## Features
 
@@ -29,7 +29,7 @@ struct bitmap {
 };
 ```
 
-##How to run and Compile
+## How to run and Compile
 
 To run and Compile use this in linux
 
